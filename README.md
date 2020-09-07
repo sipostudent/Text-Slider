@@ -15,4 +15,4 @@ Swiper.js
 
 ## Project Specifications
 
-- Cards can be swiped left or right when user interacts by dragging.
+- Cards can get swiped left or right when a user interacts by dragging.
